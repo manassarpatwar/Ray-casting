@@ -3,4 +3,4 @@ Inspired from the video [Coding Challenge #145: 2D Raycasting](https://www.youtu
 
 Created using HTML5 canvas and Javascript
 
-[Check it out!](https://manassarpatwar.github.io/Ray-tracing/)
+[Check it out!](https://manassarpatwar.github.io/Ray-casting/)
