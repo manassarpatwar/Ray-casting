@@ -3,6 +3,4 @@ Inspired from the video [Coding Challenge #145: 2D Raycasting](https://www.youtu
 
 Javascript Canvas implementation of ray casting which formed the basis of my [Self-Driving-Car](https://github.com/manassarpatwar/Self-driving-AI) project
 
-Created using HTML5 canvas and Javascript
-
 [Check it out!](https://manassarpatwar.github.io/Ray-casting/)
